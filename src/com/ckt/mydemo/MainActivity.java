@@ -17,7 +17,7 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
-
+ 
 public class MainActivity extends Activity implements ServiceConnection {
 
 	private final int MESSAGE_ID_SEND_STRING_TO_JNI = 0x01;
